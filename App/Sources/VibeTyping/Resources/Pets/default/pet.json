@@ -1,0 +1,7 @@
+{
+  "id": "vibetyping-default",
+  "displayName": "VibeTyping Companion",
+  "description": "A compact local dictation companion.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
