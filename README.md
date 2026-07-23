@@ -84,6 +84,7 @@ Docs/                 architecture documentation
 
 ## License
 
-No top-level project license has been selected yet. Third-party dependencies and
-bundled model resources retain their own licenses; see
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+VibeTyping is licensed under the MIT License. See [LICENSE](LICENSE).
+
+Third-party dependencies and bundled model resources retain their own licenses;
+see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
